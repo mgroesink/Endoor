@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bio
+namespace Project2
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Project Bio");
+            Console.WriteLine("Project 2");
             Console.ReadKey();
         }
     }
